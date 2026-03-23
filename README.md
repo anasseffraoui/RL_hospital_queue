@@ -324,13 +324,13 @@ Adhicarna, I., Nurhidayati, S., & Fauzan, T. R. (2024). Optimization of Hospital
 
 # Authors
 Anas SEFFRAOUI
-Email: anas.seffraoui@mines-ales.fr
+Email: anas.seffraoui@etu.mines-ales.fr
 
 Salmane EL HAJOUJI
-Email: salmane.elhajouji@mines-ales.fr
+Email: salmane.el-hajouji@etu.mines-ales.fr
 
 Iljada BARDHOSHI
-Email: iljada.bardhoshi@mines-ales.fr
+Email: iljada.bardhoshi@etu.mines-ales.fr
 
 Institution: IMT Mines Alès, Department of Computer Science and Artificial Intelligence
 Date: February 2026
