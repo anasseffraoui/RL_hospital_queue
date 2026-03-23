@@ -1,0 +1,46 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Results and logs
+app/data/results/*.csv
+results/*.csv
+*.log
+
+# Models (large files)
+models/Env/checkpoints/
+models/Env/*.zip
+models/Env/interrupted_model.zip
+models/Env/final_model.zip
+
+# Keep only Q-table
+!models/Env/q_table.npy
+!models/Env/q_meta.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
+*.old
+
+# Zip files
+*.zip
+RLprojet.zip
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
